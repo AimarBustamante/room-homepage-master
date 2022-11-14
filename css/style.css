@@ -151,14 +151,14 @@ body{
         padding: 70px 0;
     }
 
-    .main{
+     .main{
         grid-template-columns: repeat(7,1fr);
         grid-template-areas: 
         "main main main main cta cta cta"
         "main main main main cta cta cta"
         "main main main main cta cta cta"
-        "image 1 image 1 about about about image 2 image 2"
-        "image 1 image 1 about about about image 2 image 2"
+        "image1 image1 about about about image2 image2"
+        "image1 image1 about about about image2 image2"
         ;
     }
 
